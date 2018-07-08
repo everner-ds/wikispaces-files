@@ -1,0 +1,26 @@
+{
+  "name": "wikispaces-files",
+  "version": "1.0.0",
+  "description": "Downloads files from Wikispaces page",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everner-ds/wikispaces-files.git"
+  },
+  "keywords": [
+    "wikispaces",
+    "downloads"
+  ],
+  "author": "Eric Verner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everner-ds/wikispaces-files/issues"
+  },
+  "homepage": "https://github.com/everner-ds/wikispaces-files#readme"
+}
